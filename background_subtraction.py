@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+# comment to test branch use in github
 # function to get the current frame from the webcam
 def get_frame(cap, scaling_factor):
     # Read the current frame from the video capture object
